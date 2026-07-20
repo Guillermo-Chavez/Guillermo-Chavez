@@ -1,76 +1,101 @@
-📊 Guillermo Chávez | Data Scientist Jr
+📊 Guillermo Chávez | Data Scientist Jr. | Machine Learning | Python | SQL
 
-👋 Hola, soy Guillermo Chávez, Data Scientist en formación con experiencia práctica en análisis de datos, visualización y desarrollo de soluciones basadas en datos.
-Me enfoco en transformar datos en insights accionables mediante proyectos end-to-end.
+👋 ¡Hola! Soy Guillermo Chávez, Data Scientist Junior apasionado por transformar datos en soluciones que generen valor para el negocio. Recientemente completé el Bootcamp de Data Science de TripleTen, donde desarrollé proyectos de principio a fin aplicando análisis de datos, aprendizaje automático y visualización.
+
+Me interesa resolver problemas reales mediante modelos predictivos, análisis estadístico y visualizaciones claras que apoyen la toma de decisiones.
 
 🚀 Sobre mí
 
 📍 Puerto Vallarta, Jalisco, México
 
-🎓 Bootcamp de Data Science – TripleTen LatAm
+🎓 Graduado del Bootcamp de Data Science – TripleTen LatAm
 
-💻 Experiencia práctica con Python, SQL y visualización de datos
+💼 Buscando oportunidades como Data Scientist Junior, Data Analyst o Machine Learning Engineer Junior
 
-📊 Interés en análisis exploratorio, toma de decisiones y aplicaciones de datos en negocio
+📈 Experiencia desarrollando proyectos de análisis de datos y Machine Learning de principio a fin
 
-🌱 Actualmente profundizando en ciencia de datos y machine learning
+🌱 Aprendiendo continuamente sobre inteligencia artificial, aprendizaje automático y mejores prácticas en ciencia de datos
 
 🛠️ Tecnologías y Herramientas
-
 Lenguajes
-
 Python
-
 SQL
-
-Librerías & Frameworks
-
-pandas, numpy
-
-matplotlib, seaborn
-
+Ciencia de Datos
+pandas
+NumPy
+SciPy
+scikit-learn
+CatBoost
+TensorFlow / Keras
+Visualización
+Matplotlib
+Seaborn
+Plotly
 Streamlit
-
-Habilidades
-
+Otras herramientas
+Git & GitHub
+Jupyter Notebook
+📚 Habilidades
 Limpieza y transformación de datos
-
 Análisis Exploratorio de Datos (EDA)
-
-Visualización y storytelling con datos
-
-Pensamiento analítico y resolución de problemas
-
-
-
+Ingeniería de características (Feature Engineering)
+Modelos de clasificación y regresión
+Series temporales
+Procesamiento de lenguaje natural (NLP)
+Visión por computadora
+Evaluación y optimización de modelos
+Storytelling con datos
+Resolución de problemas basada en datos
 📂 Proyectos Destacados
-🚗 Análisis Exploratorio del Mercado Automotriz
+🥇 Predicción de recuperación de oro
 
-Descripción:
-Análisis de datos del mercado automotriz para identificar patrones de precios según tipo de vehículo, características técnicas y segmentación de mercado.
+Desarrollo de un modelo de Machine Learning para predecir la recuperación de oro en un proceso industrial utilizando Random Forest y la métrica sMAPE.
 
-Tecnologías: Python, pandas, matplotlib, seaborn, Streamlit
-Resultados clave:
+Tecnologías
 
-Identificación de tendencias de precios por segmento
+Python • pandas • scikit-learn • Matplotlib
 
-Visualizaciones interactivas para exploración de datos
+Resultados
 
-Insights para apoyar decisiones de compra y comparación de vehículos
+Análisis exploratorio del proceso industrial
+Limpieza e imputación de datos
+Optimización de hiperparámetros
+Modelo final con excelente desempeño utilizando Random Forest
+📉 Predicción de cancelación de clientes (Churn)
 
-🔗 Repositorio:
-https://github.com/Guillermo-Chavez/proyecto
+Modelo de clasificación para identificar clientes con mayor probabilidad de abandonar un servicio.
 
+Tecnologías
 
-📈 Qué puedo aportar
+Python • scikit-learn • CatBoost
 
-Análisis de datos estructurados para apoyar decisiones de negocio
+Resultados
 
-Visualizaciones claras para stakeholders técnicos y no técnicos
+Comparación de múltiples modelos
+Optimización de métricas de clasificación
+Selección del mejor modelo mediante validación
+⚡ Predicción de consumo energético
 
-Enfoque práctico y orientado a resultados
+Modelo de series temporales para pronosticar el consumo de energía utilizando variables históricas y características temporales.
 
-Aprendizaje continuo y adaptabilidad
+🖼️ Clasificación de imágenes mediante Redes Neuronales
+
+Implementación de una red neuronal convolucional con TensorFlow/Keras para clasificación de imágenes.
+
+🚗 Aplicación web para análisis del mercado automotriz
+
+Aplicación desarrollada con Streamlit para explorar datos del mercado de vehículos mediante visualizaciones interactivas.
+
+📈 Lo que puedo aportar
+Desarrollo de modelos de Machine Learning
+Análisis de datos para apoyar decisiones estratégicas
+Automatización de procesos de análisis
+Visualizaciones claras e interactivas
+Comunicación efectiva de resultados técnicos
+Aprendizaje rápido y adaptación a nuevas tecnologías
+🎯 Objetivo Profesional
+
+Busco incorporarme a un equipo donde pueda seguir desarrollándome como Data Scientist Junior, participando en proyectos de análisis de datos y Machine Learning que generen impacto en el negocio mientras continúo fortaleciendo mis habilidades técnicas.
 
 📫 Contacto
 
@@ -78,4 +103,3 @@ Aprendizaje continuo y adaptabilidad
 
 💼 LinkedIn: https://www.linkedin.com/in/guillermo-rafael-chavez-akita/
 
-🧠 GitHub: https://github.com/Guillermo-Chavez
