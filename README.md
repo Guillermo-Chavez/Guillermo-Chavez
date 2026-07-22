@@ -111,7 +111,9 @@ Implementación de una red neuronal convolucional (CNN) para clasificación de i
 ---
 
 ### 🚗 [Aplicación web para análisis del mercado automotriz](https://github.com/Guillermo-Chavez/App-de-datos-de-automoviles)
-Aplicación desarrollada con Streamlit para explorar datos del mercado de vehículos (precio, tracción, cilindros, entre otras variables) mediante visualizaciones interactivas.
+Aplicación web desarrollada con Streamlit para el análisis exploratorio de datos del mercado de vehículos. Permite visualizar de forma interactiva variables como precio, tipo de tracción, número de cilindros, transmisión y otras características mediante gráficos dinámicos, facilitando la identificación de patrones y tendencias.
+Tecnologías: Python · Streamlit · pandas · Plotly Express
+https://web-site-p9yw.onrender.com
 
 **Tecnologías:** Python · Streamlit · pandas
 
