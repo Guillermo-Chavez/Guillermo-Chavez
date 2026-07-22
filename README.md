@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📊 Guillermo Chávez
-### Data Scientist Jr. | Machine Learning | Python | SQL
+### Data Scientist Jr.
 
 👋 ¡Hola! Soy Guillermo Chávez, Data Scientist Junior apasionado por transformar datos en soluciones que generen valor para el negocio. Recientemente completé el Bootcamp de Data Science de TripleTen, donde desarrollé proyectos de principio a fin aplicando análisis de datos, aprendizaje automático y visualización.
 
