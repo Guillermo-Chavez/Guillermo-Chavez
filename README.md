@@ -96,26 +96,22 @@ Modelo de clasificación para identificar clientes con mayor probabilidad de can
 
 ---
 
-### ⚡ Predicción de consumo energético
-Modelo de series temporales para pronosticar el consumo de energía utilizando variables históricas y características temporales.
-
-**Tecnologías:** Python · pandas · scikit-learn
-
----
-
-### 🖼️ Clasificación de imágenes mediante redes neuronales
-Implementación de una red neuronal convolucional (CNN) para clasificación de imágenes.
-
-**Tecnologías:** Python · TensorFlow · Keras
-
----
-
 ### 🚗 [Aplicación web para análisis del mercado automotriz](https://github.com/Guillermo-Chavez/App-de-datos-de-automoviles)
 Aplicación web desarrollada con Streamlit para el análisis exploratorio de datos del mercado de vehículos. Permite visualizar de forma interactiva variables como precio, tipo de tracción, número de cilindros, transmisión y otras características mediante gráficos dinámicos, facilitando la identificación de patrones y tendencias.
 
 https://web-site-p9yw.onrender.com
 
 **Tecnologías:** Python · Streamlit · pandas
+
+---
+
+### 🏎️ [Analizador de Fórmula 1](https://github.com/Guillermo-Chavez/Analizador-de-datos-f1)
+Dashboard interactivo desarrollado con Streamlit y FastF1 para explorar datos oficiales de Fórmula 1: comparación de telemetría entre pilotos vuelta a vuelta (velocidad, acelerador, freno, RPM y marchas), delta de tiempo y mapa del circuito coloreado por velocidad.
+
+Pruébala en vivo, sin instalar nada:
+https://analizador-de-datos-f1.onrender.com
+
+**Tecnologías:** Python · Streamlit · FastF1 · Plotly · Matplotlib
 
 ---
 
